@@ -11,13 +11,26 @@ Theory Part (to further unterstand how emotion recognition and CNN work)
        "Gosh et al., 2020.pdf"
 
  Coding Part (The code written thus far (07/2023))
-   1. Initialication and system setup
-       "Initialisierung.ipynb"
-   2. Preprocessing the data
-       "Preprocessing.ipynb"
-   3. Machine Learning Algorithm (CNN)
-       "CNN.iypnb"
+ 
+Full Code
+ Structure: 
+   1. Initialication and system setum
+      1.1 Initalisierung und Importieren der Libraries
+  
+   2. Vorbereitung der Datensätze
+      2.1 Definieren und Überprüfen der Ordner Pfade
+      2.2 Generieren von Datensätzten 
+    
+   3. Neuronales Netzwerk
+      3.1 Erstellen eines Neuronalen Netz
+      3.2 Model mit Trainings und Validierungsdaten füttern
+        3.2.1 Stop Mechanism, Callbacks und Epochen definieren
+        3.2.2 Ausführen der Fit Function (Modell trainieren)
+      
    4. Data Analysis & Validation
-       "Validation.iypnb"
-   5. Full code (1. - 4.)
-       "main_emotion_recognition.iypnb"
+      4.1 Grafische Darstellung von Loss und Accuracy
+      4.2 Validierung Multi-Klassifizierungsproblem
+        4.2.1 Classification Report
+        4.2.2 Confusion Matrix mit Seaborn
+
+   5. Under Construction
