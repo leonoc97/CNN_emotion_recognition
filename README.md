@@ -7,8 +7,8 @@ It contains:
 Theory Part (to further unterstand how emotion recognition and CNN work)
   1. Introduction to emotion recognition
       "Emotion_Recognition.pdf"
-  2. Introduction to CNN
-       "CNN.pdf"
+  2. Fundamental Concepts of Convolutional Neural Network
+       "Gosh et al., 2020.pdf"
 
  Coding Part (The code written thus far (07/2023))
    1. Initialication and system setup
