@@ -5,9 +5,9 @@ This reprosity was created within the project "Emotion Recognition" within the c
 It contains:
 
 Theory Part (to further unterstand how emotion recognition and CNN work)
-  1. Introduction to emotion recognition
-      "Emotion_Recognition.pdf"
-  2. Fundamental Concepts of Convolutional Neural Network
+  1. A Brief Review of Facial Emotion Recognition Based on Visual Information
+      "Chul Ko, 2018.pdf"
+  3. Fundamental Concepts of Convolutional Neural Network
        "Gosh et al., 2020.pdf"
 
  Coding Part (The code written thus far (07/2023))
